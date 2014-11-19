@@ -1,0 +1,18 @@
+$v_link: #333333;
+$v_size: 36px;
+
+@mixin box($v: red){
+	color: $v;
+	font-size:20;
+}
+
+div{
+	@include box(blue);
+}
+a{
+	color:$v_link;
+	@extends div;
+}
+h1{
+	font-size: $v_size;
+}

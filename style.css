@@ -1,0 +1,12 @@
+div {
+  color: blue;
+  font-size: 20; }
+
+a {
+  color: #333333;
+  @extends div; }
+
+h1 {
+  font-size: 36px; }
+
+/*# sourceMappingURL=style.css.map */
