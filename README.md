@@ -10,6 +10,8 @@ https://docs.google.com/presentation/d/1-dakza0_cz6-GU3lJRvqga1rtgRaXyQYEyTyumS-
 
 http://www.slideshare.net/sfismy/sass-25113043
 
+http://blog.visioncan.com/2011/sass-scss-your-css/
+
 Sass Conf 2014:
 
 http://jasonreece.com/slides/sass-conf-2014/#/
