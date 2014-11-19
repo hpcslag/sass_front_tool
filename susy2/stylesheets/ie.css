@@ -1,0 +1,35 @@
+/* line 18, ../sass/ie.scss */
+.container {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: linear-gradient(to right, rgba(102, 102, 255, 0.25), rgba(179, 179, 255, 0.25) 80%, transparent 80%);
+  background-size: 8.47458%;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-position: left top;
+}
+/* line 12, ../../../../../../Ruby21-x64/lib/ruby/gems/2.1.0/gems/susy-2.1.3/sass/susy/output/support/_clearfix.scss */
+.container:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 22, ../sass/ie.scss */
+.left {
+  background: black;
+  height: 50px;
+  width: 6.77966%;
+  float: left;
+  margin-right: 1.69492%;
+}
+
+/* line 28, ../sass/ie.scss */
+.right {
+  height: 50px;
+  background: blue;
+  width: 6.77966%;
+  float: left;
+  margin-right: 1.69492%;
+}

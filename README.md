@@ -32,11 +32,20 @@ https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass/%E5%A6%8
 
 https://packagecontrol.io/packages/Seti_UI
 
-Start
+Start SASS
 ================
 1. Install Ruby http://rubyinstaller.org/downloads/
 2. CMD Open, Enter: gem install sass
+3. sass --watch style.scss:style.css
 
 ##In Sublime:
 1. Install 'package Control'
 2. use Package Control install SASS,SASS Snippets and Compass
+
+
+Start Susy2
+================
+1. Use CLI Install: gem install susy
+2. gem install compass,breakpoint
+3. cd to your path, compass create project
+4. open config.rb write require 'susy'; and require 'breakpoint';
